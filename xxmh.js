@@ -12,8 +12,8 @@ hostname= c.banghankeji.com
 var body = $response.body; 
 var obj = JSON.parse(body); 
 
-obj.MemberInfo.isVip = 1;
-obj.MemberInfo.integralSum = 99999999;
+obj.MemberInfo.isVip=1;
+obj.MemberInfo.integralSum=999999;
 
 
 body = JSON.stringify(obj);
