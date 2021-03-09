@@ -13,7 +13,7 @@ hostname= m.pearkin.com
 
 https://m.pearkin.com/api/movie/WatchMovieNew
 
-var body = $response.body;//声明变量
+var body = $response.body;
 var url = $request.url;
 var obj = JSON.parse(body);
 
