@@ -6,7 +6,7 @@ QQ群528680197
 圈x
 [rewrite_local]
 #雪梨解锁会员
-^https:\/\/m\.pearkin\.com\/api(\/account|\/movie)(\/IndexDetail|\/IsVip|\/WatchMovieNew)  url script-response-body  https://raw.githubusercontent.com/qianmo001/ACL4SSR/rm/xlsp.js
+^https:\/\/m\.pearkin\.com\/api(\/account|\/movie)(\/IndexDetail|\/IsVip|\/WatchMovieNew)  url script-response-body  https://raw.githubusercontent.com/qianmo001/xiaobaibubai/rm/xlsp.js
 [mitm]
 hostname= m.pearkin.com
 */
