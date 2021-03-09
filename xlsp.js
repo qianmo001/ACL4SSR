@@ -1,5 +1,5 @@
 /*
-^https:\/\/*\.pearkin\.com\/api\/account\/IndexDetail  url script-response-body xlsp.js
+^https:\/\/*\.pearkin\.com\/api\/account\/IndexDetail  url script-response-body https://raw.githubusercontent.com/qianmo001/ACL4SSR/rm/xlsp.js
 
 *.pearkin.com
 */
