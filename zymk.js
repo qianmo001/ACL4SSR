@@ -19,7 +19,7 @@ const grzl = 'v1/getuserinfo/';
 const gm = 'v1/userpurchased/paychapters/';
 
 if (url.indexOf(grzl) != -1) {
-  obj.data.Uname = "️小白不白️";
+  obj.data.Uname = "️❤小白不白️❤";
   obj.data.Uviptime = 4076913029;
   obj.data.isvip = 1;
   obj.data.vipdate = 4076913029;
@@ -32,7 +32,7 @@ if (url.indexOf(grzl) != -1) {
 if (url.indexOf(gm) != -1) {
   obj.data.isvip = 1; 
   obj.data.Cgold = 99999;
-  obj.status = 0
+  obj.status = 0;
  body = JSON.stringify(obj);
  }
 
