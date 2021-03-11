@@ -5,7 +5,7 @@ QQ群528680197
 圈x
 [rewrite_local]
 #知音漫客解锁会员
-^https:\/\/.*\.zymk\.cn\/v1(\/getuserinfo|\/userpurchased)|\/paychapters  url script-response-body https://raw.githubusercontent.com/qianmo001/ACL4SSR/rm/zymk.js
+^https:\/\/.*\.zymk\.cn\/v1(\/getuserinfo|\/userpurchased)|\/paychapters  url script-response-body https://raw.githubusercontent.com/qianmo001/xiaobaibubai/rm/zymk.js
 hostname = *.zymk.cn
 下载地址：商店搜索知音漫客即可
 */
